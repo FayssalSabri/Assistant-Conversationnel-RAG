@@ -32,8 +32,8 @@ This project implements a **RAG-based chatbot** using textual embeddings and FAI
 1. Clone the repository:
 
 ```bash
-git clone <PROJECT_URL>
-cd <REPO_NAME>
+git clone <https://github.com/FayssalSabri/Assistant-Conversationnel-RAG.git>
+cd <Assistant-Conversationnel-RAG>
 ```
 
 2. Create a virtual environment and install dependencies:
